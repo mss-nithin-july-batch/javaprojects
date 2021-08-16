@@ -1,3 +1,7 @@
 .classpath
 .project
 /.settings
+docker-compose.yml  
+Jenkinsfile  
+JenkinsfileDeclarative  
+JenkinsfiledeclarativeJuneBathc
